@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.114,=Z:\кп5\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.862,=C:\Users\Dom\Desktop\ОАиП\лр\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.076,C:\Users\Dom\Desktop\ОАиП\лр\Unit1.pas=C:\Users\Dom\Desktop\КП\кп5\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.848,=C:\Users\Dom\Desktop\КП\кп5\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.569,=Z:\кп5.5\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.489,=C:\Users\Dom\Desktop\КП\кп5\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.400,C:\Users\Dom\Desktop\ОАиП\лр\Project1.dproj=C:\Users\Dom\Desktop\КП\кп5\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.076,C:\Users\Dom\Desktop\ОАиП\лр\Unit1.dfm=C:\Users\Dom\Desktop\КП\кп5\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.308,=C:\Users\Dom\Desktop\КП\кп5\Unit3.pas</Transaction>
+  </Transactions>
+</BorlandProject>
